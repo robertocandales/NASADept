@@ -1,4 +1,4 @@
-# Koombea-app
+# NasaApi-app
 React Native project using Redux &amp; typescript
 
 This project aims to be a solid foundation for React native applications. It provides a clear and organized structure to continue growing during the development of the project.
