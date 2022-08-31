@@ -33,8 +33,7 @@ The template already has scripts to execute the project calling a specific envir
 
  Step 1             
 :-------------------------:
-<img src="https://user-images.githubusercontent.com/61159123/187688754-4f774187-62e0-44b4-a80e-06167c1025ef.png" 
-  
+  <img src="https://user-images.githubusercontent.com/61159123/187688754-4f774187-62e0-44b4-a80e-06167c1025ef.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
 ### Screens 
 
  Home               |  Pictures by step               |Pictures grid    
